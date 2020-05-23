@@ -1,0 +1,11 @@
+{
+  "name": "gulp-chean-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "winnerwly <winnerwly@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^3.0.1"
+  }
+}
